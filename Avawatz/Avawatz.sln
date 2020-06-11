@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avawatz", "Avawatz\Avawatz.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avawatz.Tests", "Avawatz.Tests\Avawatz.Tests.csproj", "{5537A373-6121-4336-869D-75209F9F143F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvawatzDesktop", "AvawatzDesktop\AvawatzDesktop.csproj", "{224015DF-3F76-4B12-B5A3-82B74A3F9C93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{6ADD2246-4215-49E3-AC6C-501F9FBC8091}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{5537A373-6121-4336-869D-75209F9F143F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5537A373-6121-4336-869D-75209F9F143F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5537A373-6121-4336-869D-75209F9F143F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224015DF-3F76-4B12-B5A3-82B74A3F9C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224015DF-3F76-4B12-B5A3-82B74A3F9C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224015DF-3F76-4B12-B5A3-82B74A3F9C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224015DF-3F76-4B12-B5A3-82B74A3F9C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ADD2246-4215-49E3-AC6C-501F9FBC8091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADD2246-4215-49E3-AC6C-501F9FBC8091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADD2246-4215-49E3-AC6C-501F9FBC8091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADD2246-4215-49E3-AC6C-501F9FBC8091}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
